@@ -1,4 +1,4 @@
-# Hi there, I'm Suraj 👋
+# Hi there, I'm Suraj Kumar Nirala 👋
 
 **Data Engineer | Building scalable batch & real-time data pipelines**
 
