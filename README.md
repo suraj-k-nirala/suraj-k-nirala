@@ -8,10 +8,10 @@ I am a Data Engineer focused on designing, building, and optimizing data archite
 
 *   **Programming Languages:** Python, SQL
 *   **Cloud Platform (AWS):** S3, EC2, IAM, Lambda, Glue, Athena, Kinesis, SNS
-*   **Data Processing & Analytics:** Apache Spark, Databricks
+*   **Big Data & Processing:** Apache Spark, Pyspark
 *   **Databases & Data Warehousing:** Snowflake, PostgreSQL, MySQL
 *   **Streaming & Orchestration:** Apache Kafka, Apache Airflow
-*   **DevOps & Environment:** Docker, Linux, Git, GitHub
+*   **Tools & Version Control:** Docker, Git, Linux
 
 ---
 
