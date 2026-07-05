@@ -26,6 +26,7 @@ I build end-to-end data solutions using Python, SQL, Power BI, Apache Spark, Air
 *   Built interactive Power BI dashboards to monitor customer churn, revenue, customer segmentation, and key business metrics.
 
 **Skills:** SQL • PostgreSQL • Python • Pandas • Power BI • Data Cleaning • EDA • Business Intelligence
+
 🔗 Repository: https://github.com/suraj-k-nirala/telecom-customer-churn-analytics
 
 ## 🚀 Ecommerce Sales Analytics Pipeline
