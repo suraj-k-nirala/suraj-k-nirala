@@ -72,6 +72,7 @@ A scalable real-time streaming pipeline designed to process high-volume clickstr
 - Orchestrated end-to-end workflows using Apache Airflow for reliable pipeline scheduling and monitoring.
 - Designed the solution for scalable, fault-tolerant, and cloud-native real-time data processing.
 
+🔗 Repository: https://github.com/suraj-k-nirala/stock-market-pipeline
 
 ### 📫 Let's Connect
 *   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/suraj-kumar-nirala/)
