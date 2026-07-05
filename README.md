@@ -7,28 +7,25 @@ I build end-to-end data solutions using Python, SQL, Power BI, Apache Spark, Air
 ### 🛠️ Technical Stack
 
 *   **Programming Languages:** Python, SQL
+*   **Analytics & BI Tools:** Power BI, Excel, Power Query, DAX, Pivot Tables, Pivot Charts
 *   **Big Data & Processing:** Apache Spark, Pyspark
 *   **Streaming & Orchestration:** Apache Kafka, Apache Airflow
 *   **Cloud Platform (AWS):** S3, EC2, IAM, Lambda, Glue, Athena, Kinesis, SNS
-*   **Databases & Visualization:** PostgreSQL, MySQL, Power BI
+*   **Databases & Storage:** PostgreSQL, MySQL
 *   **Tools & Version Control:** Docker, Git, Linux
 *   **Concepts:** ETL/ELT, Data Warehousing, Dimensional Modeling
-
----
+    
 
 ### 🚀 Featured Work
 
 ## 📊 Telecom Customer Churn Analytics
 **Tech Stack:** PostgreSQL • SQL • Python • Pandas • Power BI
-
-- Designed and implemented a PostgreSQL database for telecom customer data.
-- Performed SQL-based data validation, cleaning, KPI calculations, and business analysis.
-- Conducted exploratory data analysis using Python and Pandas.
-- Built interactive Power BI dashboards to monitor customer churn, revenue, customer segmentation, and key business metrics.
-- Generated actionable business insights to support customer retention strategies.
+*   Designed and implemented a PostgreSQL database for telecom customer data.
+*   Performed SQL-based data validation, cleaning, KPI calculations, and business analysis.
+*   Conducted exploratory data analysis using Python and Pandas.
+*   Built interactive Power BI dashboards to monitor customer churn, revenue, customer segmentation, and key business metrics.
 
 **Skills:** SQL • PostgreSQL • Python • Pandas • Power BI • Data Cleaning • EDA • Business Intelligence
-
 🔗 Repository: https://github.com/suraj-k-nirala/telecom-customer-churn-analytics
 
 ## 🚀 Ecommerce Sales Analytics Pipeline
@@ -36,26 +33,17 @@ I build end-to-end data solutions using Python, SQL, Power BI, Apache Spark, Air
 
 An end-to-end analytics platform that automates data ingestion, transformation, storage, and visualization for ecommerce sales data using modern data engineering technologies and interactive business dashboards.
 
-- Built an automated ETL pipeline using Apache Spark and Apache Airflow.
-- Processed ecommerce sales data from multiple sources into PostgreSQL.
-- Designed a scalable analytics-ready data model for reporting.
-- Automated pipeline scheduling and monitoring with Apache Airflow.
-- Developed Power BI dashboards for sales performance, revenue trends, customer insights, and product analytics.
-- Enabled business users to monitor KPIs through interactive dashboards.
+*  Processed ecommerce sales data from multiple sources into PostgreSQL.
+*  Designed a scalable analytics-ready data model for reporting.
+*  Automated pipeline scheduling and monitoring with Apache Airflow.
+*  Developed Power BI dashboards for sales performance, revenue trends, customer insights, and product analytics.
+*  Enabled business users to monitor KPIs through interactive dashboards.
 
 🔗 Repository: https://github.com/suraj-k-nirala/ecommerce-sales-analytics-pipeline
 
 ## ⚡ Real-Time Clickstream Data Pipeline
 **Tech Stack:** Apache Kafka • Spark Structured Streaming • Apache Airflow • PostgreSQL • Docker
-
-A scalable real-time streaming pipeline designed to process high-volume clickstream events with low latency using Apache Kafka and Spark Structured Streaming.
-
-- Built a real-time event ingestion pipeline using Apache Kafka.
-- Processed clickstream events with Spark Structured Streaming.
-- Implemented a Medallion Architecture (Bronze, Silver, Gold) for data quality and transformations.
-- Automated Gold-layer aggregation workflows using Apache Airflow.
-- Stored processed analytical datasets in PostgreSQL for downstream reporting and analytics.
-- Designed for scalable, fault-tolerant, and near real-time data processing.
+*   A scalable real-time streaming pipeline designed to process high-volume clickstream events with low latency using Apache Kafka and Spark Structured Streaming.
 
 🔗 Repository: https://github.com/suraj-k-nirala/clickstream-realtime-pipeline
 
