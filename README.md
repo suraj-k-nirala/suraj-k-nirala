@@ -30,14 +30,14 @@ I build end-to-end data solutions using Python, SQL, Power BI, Apache Spark, Air
 🔗 Repository: https://github.com/suraj-k-nirala/telecom-customer-churn-analytics
 
 ## 🚀 Ecommerce Sales Analytics Pipeline
-**Tech Stack:** Docker • Apache Spark • Apache Airflow • PostgreSQL • Power BI • Python
+**Tech Stack:** Docker • Apache Spark • Apache Airflow • PostgreSQL • Metabase • Python
 
 An end-to-end analytics platform that automates data ingestion, transformation, storage, and visualization for ecommerce sales data using modern data engineering technologies and interactive business dashboards.
 
 *  Processed ecommerce sales data from multiple sources into PostgreSQL.
 *  Designed a scalable analytics-ready data model for reporting.
 *  Automated pipeline scheduling and monitoring with Apache Airflow.
-*  Developed Power BI dashboards for sales performance, revenue trends, customer insights, and product analytics.
+*  Developed dashboards for sales performance, revenue trends, customer insights, and product analytics.
 *  Enabled business users to monitor KPIs through interactive dashboards.
 
 🔗 Repository: https://github.com/suraj-k-nirala/ecommerce-sales-analytics-pipeline
